@@ -14,7 +14,7 @@ This project focuses on understanding the factors contributing to employee attri
 
 
 ## Project Description
-The primary goal of this project is to examine the elements that contribute to employee attrition. By analyzing the provided dataset, we aim to gain insights into the factors that may influence employees to leave the workforce. The project is implemented in a Jupyter Notebook.
+The primary goal of this project is to examine the elements that contribute to employee attrition. By analyzing the provided dataset, I aim to gain insights into the factors that may influence employees to leave the workforce. The project is implemented in a Jupyter Notebook.
 
 ## Dataset
 The dataset used in this analysis contains information about current and past employees, including features such as monthly wage, job satisfaction, work-life balance, experience, and more. The dataset was developed by IBM data scientists and provides valuable information for understanding employee attrition.
