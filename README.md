@@ -28,7 +28,7 @@ This analysis aims to answer several key questions:
 5. What insights can we gain from the data that may help in employee retention strategies?
 
 ## Exploratory Data Analysis
-The project begins with exploratory data analysis (EDA) to understand the distribution of key features, identify trends, and visualize relationships between variables. By addressing the questions mentioned above, we aim to provide a comprehensive overview of the factors affecting employee attrition.
+The project begins with exploratory data analysis (EDA) to understand the distribution of key features, identify trends, and visualize relationships between variables. By addressing the questions mentioned above, I aim to provide a comprehensive overview of the factors affecting employee attrition.
 
 ## Contributors
 This project was conducted by Ehinmoro Dayo as a part of the requirements for graduation at Stutern from November 2022 to January 2023.
